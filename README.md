@@ -3,8 +3,11 @@ The Velostat Pressure Sensor Activated Pet Fountain is a creative and functional
 This project utilizes a Velostat pressure sensor to detect the presence of your pet and trigger a 5V relay, which in turn controls the opening of a pet fountain.
 
 ## Demonstration
-[![Video](https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/demonstration.mp4)](https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/demonstration.mp4)
+#### Video demonstration (no cats were harmed while taking these pictures)
+[![Video demo](https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/thumbnail.png)](https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/demonstration.mp4)
+#### Relay Off  
 <img src="https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/relay_off.jpg" alt="Relay OFF"/>
+#### Relay On
 <img src="https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/relay_on.jpg" alt="Relay ON"/>
 
 ## Components 
