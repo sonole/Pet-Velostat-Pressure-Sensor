@@ -2,13 +2,17 @@
 The Velostat Pressure Sensor Activated Pet Fountain is a creative and functional project designed to provide your pets with a convenient and hygienic way to access water.  
 This project utilizes a Velostat pressure sensor to detect the presence of your pet and trigger a 5V relay, which in turn controls the opening of a pet fountain.
 
+
 ## Demonstration
 #### Video demonstration (no cats were harmed while taking these pictures)
+
 [![Video demo](https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/thumbnail.png)](https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/demonstration.mp4)
 #### Relay Off  
-<img src="https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/relay_off.jpg" alt="Relay OFF"/>
-#### Relay On
-<img src="https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/relay_on.jpg" alt="Relay ON"/>
+<img src="https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/relay_off.jpg" alt="Relay OFF" width="50%"/>
+
+#### Relay On  
+<img src="https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/relay_on.jpg" alt="Relay ON" width="50%"/>
+
 
 ## Components 
 - Velostat Pressure Sensor: Velostat is a pressure-sensitive material that changes its resistance when pressure is applied. In this project, the Velostat sensor serves as the key element for detecting your pet's presence.
@@ -17,16 +21,18 @@ This project utilizes a Velostat pressure sensor to detect the presence of your 
 - Power Supply: A stable power supply, typically 5V, is required to power the Arduino, the Velostat sensor, and the 5V relay.
 - USB A Female: The output that will give power to the Pet Fountain. The pet fountain is a water dispenser that is designed to provide a continuous flow of fresh water for your pets. 
 
+
 ## Schematics
 <img src="https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/schematics.png" alt=" Schematics"/>
+
 
 ## Project Steps  
 ### Step 1: Assemble the Hardware  
 Gather all the necessary components and connect the Velostat pressure sensor, 5V relay, Arduino microcontroller, and pet fountain as per the provided schematics. Ensure proper wiring and connections to avoid any issues.  
-<img src="https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/step_1.jpg" alt="Step 1"/>
-<img src="https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/step_2.jpg" alt="Step 2"/>
-<img src="https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/step_3.jpg" alt="Step 3"/>
-<img src="https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/step_4.jpg" alt="Step 4"/>
+<img src="https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/step_1.jpg" alt="Step 1" width="50%"/>
+<img src="https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/step_2.jpg" alt="Step 2" width="50%"/>
+<img src="https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/step_3.jpg" alt="Step 3" width="50%"/>
+<img src="https://apaliampelos.me/assets/images/github/pet-velostat-pressure-sensor/step_4.jpg" alt="Step 4" width="50%"/>
 
 ### Step 2: Program the Arduino  
 Write and upload the necessary Arduino code to read data from the Velostat sensor and control the 5V relay. The code should be designed to respond to pressure changes and activate the relay when a pet is detected.  
